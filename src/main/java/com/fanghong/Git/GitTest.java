@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("这是master测试合并冲突");
 
         System.out.println("GitHub测试push");
+        System.out.println("GitHub测试push第二次");
     }
 }
