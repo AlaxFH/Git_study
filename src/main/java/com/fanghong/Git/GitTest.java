@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("GitHub测试push");
         System.out.println("GitHub测试push第二次");
         System.out.println("这次在GitHub这里修改文件再pull回idea那里的测试");
+        System.out.println("这次在GitHub这里修改文件再pull回idea那里的测试第二次");
     }
 }
